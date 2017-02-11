@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Csuuz</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="welcome_description">Please select the place for your program</string>
+    <string name="home_description">Home</string>
+    <string name="city_description">City</string>
+
+    <string name="home_activity_title">Home</string>
+</resources>
